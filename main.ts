@@ -1,6 +1,6 @@
 //% color="#AA278D"
 //% groups="['Mapping', 'Iteration']"
-namespace marp {
+namespace classmap {
     //% block="new Map()"
     //% group="Mapping"
     //% weight = 203
@@ -32,12 +32,5 @@ namespace marp {
             code(key, value);
         }
     }
-
-}
-
-
-//% color="#AA278D"
-//% groups="['Constructor', 'Initialization']"
-namespace cls {
 
 }
