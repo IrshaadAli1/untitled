@@ -1,6 +1,6 @@
 //% color="#AA278D"
 //% groups="['Mapping', 'Iteration']"
-namespace map {
+namespace marp {
     //% block="new Map()"
     //% group="Mapping"
     //% weight = 203
